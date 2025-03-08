@@ -1,0 +1,33 @@
+# About
+
+NAME: Ritchey & AI Introduction to NAND Flash
+IMPLEMENTATION: 1
+VERSION: 0.1
+LONG IDENTIFIER: Ritchey & AI Introduction to NAND Flash i1 v0.1
+SHORT IDENTIFIER: R&AIINFi1v0.1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey & AI  Introduction to NAND Flash is a web-course about NAND flash storage.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started March 7, 2025.
+- Version 0.1 completed March 7, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- Read "/NOTICE.md"!
+
+Other:
+- 

@@ -1,0 +1,174 @@
+1. NAND flash storage stores data using a series of ____?
+
+A) memory cells
+B) flux cores
+
+Answer: memory cells
+
+2. The charge inside a NAND memory cell is stored in a ____?
+
+A) charge box
+B) floating gate
+
+Answer: floating gate
+
+3. NAND flash memory is a type of ____ storage?
+
+A) flux-volatile
+B) non-volatile
+
+Answer: non-volatile
+
+4. A NAND flash memory cell loses data when the ____ leaks away?
+
+A) flux balance
+B) stored charge
+
+Answer: stored charge
+
+5. NAND flash cells are made up of transistors arranged in a ____ structure?
+
+A) spiral
+B) grid
+
+Answer: grid
+
+6. NAND flash storage retains data even when power is removed because it does not require ____?
+
+A) dynamic cycling
+B) constant power
+
+Answer: constant power
+
+7. Data in NAND flash storage degrades over time because of ____?
+
+A) charge leakage
+B) phase drift
+
+Answer: charge leakage
+
+8. NAND flash is commonly used in devices like ____?
+
+A) magnetron disks
+B) SSDs and USB drives
+
+Answer: SSDs and USB drives
+
+9. The lifespan of NAND flash storage depends on the number of times data is ____?
+
+A) written and erased
+B) cycled and rotated
+
+Answer: written and erased
+
+10. NAND flash storage is structured into blocks, which are divided into smaller units called ____?
+
+A) layers
+B) pages
+
+Answer: pages
+
+11. The process of clearing old data before writing new data in NAND flash is called ____?
+
+A) flux resetting
+B) block erasure
+
+Answer: block erasure
+
+12. NAND flash storage uses voltage levels to determine whether a memory cell represents a ____?
+
+A) plus or minus
+B) 1 or 0
+
+Answer: 1 or 0
+
+13. NAND flash cells that store multiple bits per cell instead of just one are called ____?
+
+A) variable flux cells
+B) multi-level cells
+
+Answer: multi-level cells
+
+14. A common issue with NAND flash storage over time is increased ____?
+
+A) bit errors
+B) phase decay
+
+Answer: bit errors
+
+15. NAND flash is slower than DRAM because it lacks ____?
+
+A) direct access
+B) cycle inversion
+
+Answer: direct access
+
+16. The longest-lasting NAND flash type is typically ____?
+
+A) Charge-Retention Cell (CRC)
+B) Single-Level Cell (SLC)
+
+Answer: Single-Level Cell (SLC)
+
+17. NAND flash storage inside a powered device can typically retain data for ____?
+
+A) 3 months
+B) 10+ years
+
+Answer: 10+ years
+
+18. When NAND flash is stored without power, data retention is reduced due to ____?
+
+A) charge leakage
+B) electron erosion
+
+Answer: charge leakage
+
+19. NAND flash in cold storage (without power) can retain data for around ____?
+
+A) 50 years
+B) 5-10 years
+
+Answer: 5-10 years
+
+20. More write and erase cycles cause NAND flash to lose charge faster due to ____?
+
+A) wear and tear
+B) flux exhaustion
+
+Answer: wear and tear
+
+21. NAND flash memory cells are organized into structures called ____?
+
+A) blocks
+B) waveforms
+
+Answer: blocks
+
+22. A major limitation of NAND flash is that it has a limited number of ____?
+
+A) program-erase cycles
+B) flux realignments
+
+Answer: program-erase cycles
+
+23. NAND flash controllers use ____ to fix minor bit errors?
+
+A) error correction code (ECC)
+B) data inversion protocol (DIP)
+
+Answer: error correction code (ECC)
+
+24. When NAND flash storage wears out, it typically fails in a ____?
+
+A) quantum failure
+B) read-only state
+
+Answer: read-only state
+
+25. NAND flash data retention is worse in ____?
+
+A) neutral phases
+B) high temperatures
+
+Answer: high temperatures

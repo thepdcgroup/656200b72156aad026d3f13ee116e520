@@ -1,0 +1,43 @@
+Description: This contains content for the the file "/www/public/pages/reading-material.html".
+Content:
+<value>
+<h3>What is NAND Flash Storage?</h3>
+<p>NAND flash storage is a type of <strong>non-volatile memory</strong>, meaning it retains data even when power is removed. It is commonly used in solid-state drives (SSDs), USB flash drives, and memory cards. Unlike traditional hard drives, NAND flash does not use moving parts, making it faster and more durable.</p>
+
+<h3>How Does NAND Flash Store Data?</h3>
+<p>NAND flash memory is built using a <strong>grid of memory cells</strong>, each of which stores electrical charge. These cells are made of transistors with a <strong>floating gate</strong>, which holds electrons to represent data. By applying voltage, the system determines whether a cell represents a <strong>1 or 0</strong> in binary code.</p>
+
+<h3>Types of NAND Flash Cells</h3>
+<p>There are different types of NAND flash storage, depending on how many bits a single memory cell can store:</p>
+<ul>
+    <li><strong>Single-Level Cell (SLC):</strong> Stores 1 bit per cell. It is the most reliable and longest-lasting.</li>
+    <li><strong>Multi-Level Cell (MLC):</strong> Stores 2 bits per cell. More storage per chip but less durable.</li>
+    <li><strong>Triple-Level Cell (TLC):</strong> Stores 3 bits per cell. Cheaper but wears out faster.</li>
+    <li><strong>Quad-Level Cell (QLC):</strong> Stores 4 bits per cell. High capacity but lowest endurance.</li>
+</ul>
+
+<h3>Why Does NAND Flash Lose Data Over Time?</h3>
+<p>Since NAND flash storage relies on electrical charge, it is susceptible to <strong>charge leakage</strong>. Over time, the electrons stored in the floating gate can escape, causing the data to degrade. This process happens more quickly in <strong>high temperatures</strong> and with increased wear.</p>
+
+<h3>How Long Can NAND Flash Store Data?</h3>
+<p>The retention of data depends on whether the device is actively powered or stored offline:</p>
+<ul>
+    <li><strong>When Powered:</strong> NAND flash storage can typically retain data for <strong>10+ years</strong>, as long as the device is periodically used.</li>
+    <li><strong>In Cold Storage (No Power):</strong> Without power, data retention decreases to around <strong>5-10 years</strong>, depending on wear, storage conditions, and temperature.</li>
+</ul>
+
+<h3>How Does Writing and Erasing Affect NAND Flash?</h3>
+<p>NAND flash memory has a limited number of <strong>program-erase (P/E) cycles</strong>. Each time data is written or erased, a tiny amount of wear occurs to the memory cells. As the storage is used more, the cells become less able to hold charge, leading to a higher risk of <strong>bit errors</strong> and eventual failure.</p>
+
+<h3>Error Correction and Data Integrity</h3>
+<p>To prevent corruption, NAND flash storage includes <strong>error correction code (ECC)</strong>, which helps fix minor bit errors. However, as wear increases, the storage can reach a point where data can only be read but not written--this is known as a <strong>read-only state</strong>.</p>
+
+<h3>Best Practices to Maximize NAND Flash Lifespan</h3>
+<ul>
+    <li>Avoid excessive writes and erases to reduce wear.</li>
+    <li>Store devices in <strong>cool temperatures</strong> to slow charge leakage.</li>
+    <li>Periodically power on storage devices to help refresh data.</li>
+    <li>Use SSDs with <strong>wear leveling</strong> technology, which spreads data evenly across memory cells.</li>
+</ul>
+<div class='course_links_outter'><a class='course_links' href="./evaluation.html">Start Evaluation</a></div>
+</value>

@@ -1,0 +1,34 @@
+Create reading materials, and a quiz. 
+
+The the quiz will be however many questions long I state, and on the topic I state. Each question will be fill in the blank, with one blanked out word, or phrase. Each question will have two potential answers to choose from. One will be correct. The other will be made up. Any key words or terms used in it, must be real sounding, but fictitious. Make sure the correct answer isn't always the same (e.g., not always option A). The quiz must be structured using the format I declare, as it will be parsed by an external tool, and any deviation from the proper structure will cause problems.
+
+After you've created the questions, and answers for the quiz, write an article on the topic, which contains all the information needed to complete the quiz, including the exact words used in the correct quiz answers.
+
+Unless otherwise stated, assume the reader will have no prior knowledge on the subject, and make it beginner friendly.
+
+Do not use Markdown to style the text in the quiz or reading materials. When following the quiz structure, keep in mind that empty lines are intentionally included. The article must only use HTML compliant text characters. The article can use HTML elements (e.g. lists, tables, bold text) to help style/format things, but should try to use plain-text where possible.
+
+---
+
+Topic: How nand flash storage works. As well as how data loss occurs by loss of charge. How long data can be retained when connected to power, and when used as cold storage.
+Number of Quiz Questions: 25
+Reader Prior Knowledge: None. The reader should have no prior knowledge.
+
+---
+
+Quiz Format:
+```
+1. A dog is an ____?
+
+A) animal
+B) onimel
+
+Answer: animal
+
+2. A cat is a ____?
+
+A) common pet
+B) wilm bast
+
+Answer: common pet
+```
